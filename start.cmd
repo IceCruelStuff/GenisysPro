@@ -1,4 +1,5 @@
 @echo off
+
 TITLE GenisysPro server software for Minecraft: Pocket Edition
 cd /d %~dp0
 
